@@ -12,9 +12,9 @@ const pool = new Pool({
 
 /*
 [x] getAllProperties
-[ ] getUserWithEmail
-[ ] getUserWithId
-[ ] addUser
+[x] getUserWithEmail
+[x] getUserWithId
+[x] addUser
 [ ] getAllReservations
 [ ] addProperty
 */
